@@ -22,6 +22,10 @@
 * [Блокировка в МАКС](blokirovka-v-maks.md)
 * [Блокировка в Telegram](blokirovka-v-telegram.md)
 
+## Тарифы приложения
+
+* [Тарифы](tarify-prilozheniya/tarify.md)
+
 ## Быстрый старт
 
 * [Установка приложения](bystryi-start/ustanovka-prilozheniya.md)
