@@ -25,6 +25,7 @@
 ## Тарифы приложения
 
 * [Тарифы](tarify-prilozheniya/tarify.md)
+* [Оплата коннектора](tarify-prilozheniya/oplata-konnektora.md)
 
 ## Быстрый старт
 
