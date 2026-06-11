@@ -86,3 +86,4 @@
     * [Page 3](roboty-i-aktiviti-deistviya-biznes-processov/maks/page-3.md)
     * [Page 4](roboty-i-aktiviti-deistviya-biznes-processov/maks/page-4.md)
     * [Page 5](roboty-i-aktiviti-deistviya-biznes-processov/maks/page-5.md)
+  * [Telegram](roboty-i-aktiviti-deistviya-biznes-processov/telegram.md)

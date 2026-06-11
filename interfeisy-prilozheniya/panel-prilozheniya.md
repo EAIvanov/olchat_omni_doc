@@ -16,7 +16,7 @@
 * **Оплаты и счета.**
   * Новый платёж — оформление подписки.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Счета на оплату в настоящее время не принимаются — оплата подписки производится только по карте.

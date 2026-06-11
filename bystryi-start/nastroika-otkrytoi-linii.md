@@ -73,7 +73,7 @@ hidden: true
 
 Время работы Открытой линии и закрытия диалогов установлены по умолчанию. Задать необходимые параметры можно в полных настройках.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Полные настройки
 
