@@ -75,6 +75,7 @@
 ***
 
 * [Роботы и активити (действия) бизнес-процессов](roboty-i-aktiviti-deistviya-biznes-processov/README.md)
+  * [Открытые линии](roboty-i-aktiviti-deistviya-biznes-processov/otkrytye-linii.md)
   * [МАКС](roboty-i-aktiviti-deistviya-biznes-processov/maks/README.md)
     * [Отправить сообщение](roboty-i-aktiviti-deistviya-biznes-processov/maks/otpravit-soobshenie.md)
     * [Создать диалог в ОЛ](roboty-i-aktiviti-deistviya-biznes-processov/maks/sozdat-dialog-v-ol.md)
