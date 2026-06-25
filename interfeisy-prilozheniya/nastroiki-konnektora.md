@@ -8,7 +8,7 @@
 * В списке выберите нужный аккаунт и нажмите на него.
 * Список настроек можно найти в меню слева.
 
-<figure><img src="../.gitbook/assets/image (1089).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1121).png" alt=""><figcaption></figcaption></figure>
 
 ### Название коннектора
 

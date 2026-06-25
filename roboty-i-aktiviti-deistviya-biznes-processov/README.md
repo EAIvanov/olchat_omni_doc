@@ -31,7 +31,7 @@
 
 1.  Перейдите в **Настройки приложения**.<br>
 
-    <figure><img src="../.gitbook/assets/image (1098).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1129).png" alt=""><figcaption></figcaption></figure>
 2. В меню слева выберите раздел **Роботы**.
 
 Нажмите кнопку **Переустановить роботов**. После успешного обновления статус возле названия робота поменяет значение на ![](<../.gitbook/assets/image (1).png>).

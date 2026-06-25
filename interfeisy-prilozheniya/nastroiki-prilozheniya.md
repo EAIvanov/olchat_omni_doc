@@ -6,7 +6,7 @@
 
 Чтобы перейти к настройкам, в боковом меню панели Олчат ОМНИ выберите пункт **Настройки приложения**.
 
-<figure><img src="../.gitbook/assets/image (1092).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1122).png" alt=""><figcaption></figcaption></figure>
 
 ## Структура раздела настроек
 

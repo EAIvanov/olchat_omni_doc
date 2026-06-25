@@ -19,7 +19,7 @@ hidden: true
 1. Откройте приложение Олчат ОМНИ на портале Битрикс24.
 2.  В меню слева выберите интеграцию, которую необходимо подключить. Также можно нажать **Подключить** вверху справа.<br>
 
-    <figure><img src="../.gitbook/assets/image (1097).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1128).png" alt=""><figcaption></figcaption></figure>
 3. Выберите линию и нажмите **Подключить**.
 
 #### Шаг 2. Авторизация через QR-код

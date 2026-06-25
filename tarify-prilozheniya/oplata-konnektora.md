@@ -6,7 +6,7 @@
 
 Также можно выбрать **Новый платёж** в разделе **Оплаты и счета** в меню слева.
 
-<figure><img src="../.gitbook/assets/image (1103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1119).png" alt=""><figcaption></figcaption></figure>
 
 Для оплаты укажите плательщика, затем выберите период оплаты. Далее нажмите **Создать счёт** или **Оплатить**, если счёт уже выставлен.
 
