@@ -29,8 +29,8 @@
 
 После этого потребуется авторизовать аккаунт мессенджера. Процесс авторизации отличается для каждого мессенджера:
 
-* Для [Telegram](../akkaunty-i-avtorizaciya/avtorizaciya-telegram.md).
-* Для [МАКС](../akkaunty-i-avtorizaciya/avtorizaciya-maks.md).
+* Для [Telegram](/broken/pages/Bc5knuIzEEMUWMWRKc07).
+* Для [МАКС](/broken/pages/oLeIghDQv9XP94moJgow).
 
 ## Проверка подключения
 
