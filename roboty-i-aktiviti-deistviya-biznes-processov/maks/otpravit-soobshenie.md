@@ -28,7 +28,7 @@ hidden: true
 
 ## Настройка активити (действия) бизнес-процесса
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В бизнес-процессе добавьте действие «\[Олчат ОМНИ] \[MAX] Отправить сообщение» и настройте те же параметры, что и для робота:
 
