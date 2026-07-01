@@ -89,3 +89,8 @@
     * [Page 4](roboty-i-aktiviti-deistviya-biznes-processov/maks/page-4.md)
     * [Page 5](roboty-i-aktiviti-deistviya-biznes-processov/maks/page-5.md)
   * [Telegram](roboty-i-aktiviti-deistviya-biznes-processov/telegram.md)
+
+## Вопросы и ответы
+
+* [Работа с чатами](voprosy-i-otvety/rabota-s-chatami/README.md)
+  * [Как дать ссылку на конкретный чат?](voprosy-i-otvety/rabota-s-chatami/kak-dat-ssylku-na-konkretnyi-chat.md)
