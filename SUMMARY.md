@@ -57,6 +57,7 @@
 ***
 
 * [Получение и отправка сообщений](poluchenie-i-otpravka-soobshenii/README.md)
+  * [Получение и отправка сообщений](poluchenie-i-otpravka-soobshenii/poluchenie-i-otpravka-soobshenii.md)
   * [Написать первым из CRM](poluchenie-i-otpravka-soobshenii/napisat-pervym-iz-crm.md)
   * [Отправка сообщений из мобильного приложения Битрикс24](poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
   * [Отправка сообщений через функционал СМС](poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-cherez-funkcional-sms.md)
