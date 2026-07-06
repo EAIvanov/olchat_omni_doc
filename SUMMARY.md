@@ -26,6 +26,7 @@
 
 * [Тарифы](tarify-prilozheniya/tarify.md)
 * [Оплата коннектора](tarify-prilozheniya/oplata-konnektora.md)
+* [Copy of Оплата коннектора](tarify-prilozheniya/copy-of-oplata-konnektora.md)
 
 ## Быстрый старт
 
