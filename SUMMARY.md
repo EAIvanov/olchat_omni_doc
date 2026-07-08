@@ -3,6 +3,7 @@
 ## Олчат ОМНИ
 
 * [Олчат ОМНИ](README.md)
+* [Copy of Олчат ОМНИ](olchat-omni/copy-of-olchat-omni.md)
 
 ## Важная информация
 
