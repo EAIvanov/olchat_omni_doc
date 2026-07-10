@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Олчат ОМНИ](README.md)
-* [Copy of Олчат ОМНИ](copy-of-olchat-omni.md)
+* [Знакомство с Олчат ОМНИ](znakomstvo-s-olchat-omni.md)
 
 ## Важная информация
 
