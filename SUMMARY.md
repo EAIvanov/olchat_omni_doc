@@ -1,15 +1,9 @@
 # Table of contents
 
 * [Знакомство с Олчат ОМНИ](README.md)
-
-## Важная информация
-
-* [Важная информация!](vazhnaya-informaciya/vazhnaya-informaciya/README.md)
-  * [Бесплатная версия](vazhnaya-informaciya/vazhnaya-informaciya/besplatnaya-versiya.md)
-  * [Расширенные возможности](vazhnaya-informaciya/vazhnaya-informaciya/rasshirennye-vozmozhnosti.md)
-
-***
-
+* [Важная информация](vazhnaya-informaciya/README.md)
+  * [Бесплатная версия](vazhnaya-informaciya/besplatnaya-versiya.md)
+  * [Расширенные возможности](vazhnaya-informaciya/rasshirennye-vozmozhnosti.md)
 * [Правила эффективного взаимодействия со службой поддержки](pravila-effektivnogo-vzaimodeistviya-so-sluzhboi-podderzhki.md)
 
 ## Блокировка номера
