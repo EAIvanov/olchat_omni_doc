@@ -63,6 +63,7 @@
 * [Шаблоны сообщений](vozmozhnosti/shablony-soobshenii.md)
 * [Бот-помощник](vozmozhnosti/bot-pomoshnik.md)
 * [Шорткоды](vozmozhnosti/shortkody.md)
+* [Расширение возможностей](vozmozhnosti/rasshirenie-vozmozhnostei.md)
 
 ## Роботы и активити
 
