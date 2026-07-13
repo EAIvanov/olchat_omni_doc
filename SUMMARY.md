@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Знакомство с Олчат ОМНИ](README.md)
-* [Copy of Знакомство с Олчат ОМНИ](copy-of-znakomstvo-s-olchat-omni.md)
 * [Важная информация](vazhnaya-informaciya/README.md)
   * [Бесплатная версия](vazhnaya-informaciya/besplatnaya-versiya.md)
   * [Расширенные возможности](vazhnaya-informaciya/rasshirennye-vozmozhnosti.md)
