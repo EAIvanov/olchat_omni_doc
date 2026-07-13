@@ -9,7 +9,7 @@ hidden: true
 Сейчас в Олчат ОМНИ уже доступны МАКС и Telegram. Мы планируем расширять список каналов и развивать приложение дальше. Но уже сейчас Олчат ОМНИ выходит далеко за рамки обычного коннектора: это многофункциональный инструмент для работы с клиентами в Битрикс24.
 
 {% hint style="success" icon="exclamation" %}
-Олчат ОМНИ уже доступен для установки 🚀 Хотите протестировать все возможности? Напишите нам: [чат поддержки](https://auth2.bitrix24.net/oauth/select/?preset=im\&IM_DIALOG=networkLines7c380c91ab28dacab02d3af93fecdbf9) / [Telegram](http://t.me/olchat_support_bot)
+Олчат ОМНИ уже доступен для установки 🚀 Хотите протестировать все возможности? Напишите нам: [чат поддержки](https://auth2.bitrix24.net/oauth/select/?preset=im\&IM_DIALOG=networkLines7c380c91ab28dacab02d3af93fecdbf9) / [Telegram](http://t.me/olchat_support_bot).
 {% endhint %}
 
 ## Что доступно в Олчат ОМНИ?
@@ -74,7 +74,5 @@ hidden: true
 Мы продолжаем активно развивать Олчат ОМНИ: планируем добавлять новые каналы, расширять возможности автоматизации, улучшать интеграцию с Открытыми линиями и делать приложение ещё удобнее для ваших команд.
 
 {% hint style="success" icon="exclamation" %}
-**Если вы хотите попробовать все возможности Олчат ОМНИ, напишите нам.**
-
-[Чат поддержки](https://auth2.bitrix24.net/oauth/select/?preset=im\&IM_DIALOG=networkLines7c380c91ab28dacab02d3af93fecdbf9) / [Telegram](http://t.me/olchat_support_bot)
+Олчат ОМНИ уже доступен для установки 🚀 Хотите протестировать все возможности? Напишите нам: [чат поддержки](https://auth2.bitrix24.net/oauth/select/?preset=im\&IM_DIALOG=networkLines7c380c91ab28dacab02d3af93fecdbf9) / [Telegram](http://t.me/olchat_support_bot).
 {% endhint %}
