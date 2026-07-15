@@ -84,6 +84,10 @@
     * [Page 5](roboty-i-aktiviti-deistviya-biznes-processov/maks/page-5.md)
   * [Telegram](roboty-i-aktiviti-deistviya-biznes-processov/telegram.md)
 
+## Групповые чаты
+
+* [Групповые чаты](gruppovye-chaty/gruppovye-chaty.md)
+
 ## Вопросы и ответы
 
 * [Работа с чатами](voprosy-i-otvety/rabota-s-chatami/README.md)
