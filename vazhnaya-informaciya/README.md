@@ -1,4 +1,5 @@
 ---
+description: НЕАКТУАЛЬНО
 hidden: true
 ---
 
