@@ -33,7 +33,6 @@
 
 * [Панель приложения](interfeisy-prilozheniya/panel-prilozheniya.md)
 * [Настройки коннектора](interfeisy-prilozheniya/nastroiki-konnektora.md)
-* [Copy of Настройки коннектора](interfeisy-prilozheniya/copy-of-nastroiki-konnektora.md)
 * [Настройки приложения](interfeisy-prilozheniya/nastroiki-prilozheniya.md)
 * [Уведомления](interfeisy-prilozheniya/uvedomleniya.md)
 
