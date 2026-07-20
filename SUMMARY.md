@@ -53,7 +53,7 @@
   * [Отправка сообщений из мобильного приложения Битрикс24](poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
   * [Отправка сообщений через функционал СМС](poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-cherez-funkcional-sms.md)
   * [Форматирование текста](poluchenie-i-otpravka-soobshenii/formatirovanie-teksta.md)
-* [Виджет](vidzhet.md)
+* [Виджет в карточке CRM и смарт-процесса](vidzhet-v-kartochke-crm-i-smart-processa.md)
 * [REST API](rest-api.md)
 
 ## Возможности
