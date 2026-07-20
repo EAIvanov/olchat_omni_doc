@@ -6,7 +6,7 @@
 
 {% hint style="success" icon="exclamation" %}
 Олчат ОМНИ уже доступен для установки 🚀 Хотите протестировать все возможности? \
-Напишите нам: [чат поддержки](https://auth2.bitrix24.net/oauth/select/?preset=im\&IM_DIALOG=networkLines7c380c91ab28dacab02d3af93fecdbf9) / [Telegram](http://t.me/olchat_support_bot).
+Напишите нам, и мы пришлём ссылку на установку: [чат поддержки](https://auth2.bitrix24.net/oauth/select/?preset=im\&IM_DIALOG=networkLines7c380c91ab28dacab02d3af93fecdbf9) / [Telegram](http://t.me/olchat_support_bot).
 {% endhint %}
 
 ## Что доступно в Олчат ОМНИ?
@@ -71,5 +71,6 @@
 Мы продолжаем активно развивать Олчат ОМНИ: планируем добавлять новые каналы, расширять возможности автоматизации, улучшать интеграцию с Открытыми линиями и делать приложение ещё удобнее для ваших команд.
 
 {% hint style="success" icon="exclamation" %}
-Олчат ОМНИ уже доступен для установки 🚀 Хотите протестировать все возможности? Напишите нам: [чат поддержки](https://auth2.bitrix24.net/oauth/select/?preset=im\&IM_DIALOG=networkLines7c380c91ab28dacab02d3af93fecdbf9) / [Telegram](http://t.me/olchat_support_bot).
+Олчат ОМНИ уже доступен для установки 🚀 Хотите протестировать все возможности? \
+Напишите нам, и мы пришлём ссылку на установку: [чат поддержки](https://auth2.bitrix24.net/oauth/select/?preset=im\&IM_DIALOG=networkLines7c380c91ab28dacab02d3af93fecdbf9) / [Telegram](http://t.me/olchat_support_bot).
 {% endhint %}
