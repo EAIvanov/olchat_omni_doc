@@ -27,11 +27,11 @@
 
 ### Обычные роботы
 
-<figure><img src="../../.gitbook/assets/2026-06-18_11-15-39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2026-06-18_11-15-39.png" alt=""><figcaption></figcaption></figure>
 
 ### Роботы для групп
 
-<figure><img src="../../.gitbook/assets/2026-06-18_11-16-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2026-06-18_11-16-13.png" alt=""><figcaption></figcaption></figure>
 
 ## Рекомендации по использованию
 

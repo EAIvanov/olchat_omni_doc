@@ -16,7 +16,7 @@
 
 В открывшемся окне выберите, от имени которого будет отправлено сообщение.
 
-<figure><img src="../.gitbook/assets/image (1078).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1078).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -24,7 +24,7 @@
 
 Система автоматически подтягивает контакт клиента. Если рядом с контактом отображается **зелёная галочка**, клиент доступен для отправки сообщения через МАКС.
 
-<figure><img src="../.gitbook/assets/image (1079).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1079).png" alt=""><figcaption></figcaption></figure>
 
 Если контакт не найден, можно выбрать другой или ввести вручную.
 {% endstep %}
@@ -41,7 +41,7 @@
 * **Публиковать в открытую линию** — сообщение уйдёт клиенту и появится в открытой линии от имени оператора.
   *   Если настройка выключена, можно отобразить или скрыть имя оператора.<br>
 
-      <figure><img src="../.gitbook/assets/image (1080).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (1080).png" alt=""><figcaption></figcaption></figure>
 * Ползунок **Создать CRM-активность** — рекомендуется выключить.
 {% endstep %}
 

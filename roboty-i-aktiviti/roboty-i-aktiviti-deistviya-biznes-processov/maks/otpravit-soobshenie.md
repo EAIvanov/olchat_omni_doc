@@ -24,11 +24,11 @@ hidden: true
 3. Введите текст сообщения.
 4. Остальные параметры можно оставить по умолчанию. Нажмите **Сохранить**.
 
-<figure><img src="../../.gitbook/assets/image (1100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1100).png" alt=""><figcaption></figcaption></figure>
 
 ## Настройка активити (действия) бизнес-процесса
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В бизнес-процессе добавьте действие «\[Олчат ОМНИ] \[MAX] Отправить сообщение» и настройте те же параметры, что и для робота:
 
@@ -36,4 +36,4 @@ hidden: true
 * Номер телефона (рекомендуется \{{Телефон (текст)\}}).
 * Текст сообщения.
 
-<figure><img src="../../.gitbook/assets/image (1101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1101).png" alt=""><figcaption></figcaption></figure>

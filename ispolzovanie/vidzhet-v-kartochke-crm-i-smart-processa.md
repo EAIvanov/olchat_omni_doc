@@ -17,12 +17,12 @@ hidden: true
 
 1.  В карточке Смарт-процесса создайте пользовательское поле с типом **Олчат ОМНИ**. Для этого нажмите кнопку **Создать поле** — **Дополнительные поля...**.<br>
 
-    <figure><img src=".gitbook/assets/image (1168).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1168).png" alt=""><figcaption></figcaption></figure>
 2.  В выпадающем списке **Тип данных** выберите соответствующий тип **Олчат ОМНИ**. Укажите название поля и нажмите кнопку **Сохранить**.<br>
 
-    <figure><img src=".gitbook/assets/image (1169).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1169).png" alt=""><figcaption></figcaption></figure>
 3. Нажмите Выбрать поле, чтобы добавить виджет.
 
-<figure><img src=".gitbook/assets/image (1170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1170).png" alt=""><figcaption></figcaption></figure>
 
 Виджет Олчат ОМНИ отображается непосредственно в сущности после добавления и не требует включения в общих настройках приложения.

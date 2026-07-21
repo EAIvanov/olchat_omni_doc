@@ -8,9 +8,9 @@ REST API позволяет автоматизировать отправку/п
 
 Полная и актуальная документация по всем методам REST API доступна напрямую в вашем кабинете: **Олчат ОМНИ** → выберите аккаунт из списка → **Настройки** → **Вебхук** → **Документация API**.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Получение вебхука (токена)
 

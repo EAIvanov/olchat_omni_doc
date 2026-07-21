@@ -8,11 +8,9 @@
 
 ## Блокировка номера
 
-***
-
-* [Общая информация](obshaya-informaciya.md)
-* [Блокировка в МАКС](blokirovka-v-maks.md)
-* [Блокировка в Telegram](blokirovka-v-telegram.md)
+* [Общая информация](blokirovka-nomera/obshaya-informaciya.md)
+* [Блокировка в МАКС](blokirovka-nomera/blokirovka-v-maks.md)
+* [Блокировка в Telegram](blokirovka-nomera/blokirovka-v-telegram.md)
 
 ## Тарифы приложения
 
@@ -46,15 +44,13 @@
 
 ## Использование
 
-***
-
-* [Получение и отправка сообщений](poluchenie-i-otpravka-soobshenii/README.md)
-  * [Написать первым из CRM](poluchenie-i-otpravka-soobshenii/napisat-pervym-iz-crm.md)
-  * [Отправка сообщений из мобильного приложения Битрикс24](poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
-  * [Отправка сообщений через функционал СМС](poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-cherez-funkcional-sms.md)
-  * [Форматирование текста](poluchenie-i-otpravka-soobshenii/formatirovanie-teksta.md)
-* [Виджет в карточке CRM и смарт-процесса](vidzhet-v-kartochke-crm-i-smart-processa.md)
-* [REST API](rest-api.md)
+* [Получение и отправка сообщений](ispolzovanie/poluchenie-i-otpravka-soobshenii/README.md)
+  * [Написать первым из CRM](ispolzovanie/poluchenie-i-otpravka-soobshenii/napisat-pervym-iz-crm.md)
+  * [Отправка сообщений из мобильного приложения Битрикс24](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
+  * [Отправка сообщений через функционал СМС](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-cherez-funkcional-sms.md)
+  * [Форматирование текста](ispolzovanie/poluchenie-i-otpravka-soobshenii/formatirovanie-teksta.md)
+* [Виджет в карточке CRM и смарт-процесса](ispolzovanie/vidzhet-v-kartochke-crm-i-smart-processa.md)
+* [REST API](ispolzovanie/rest-api.md)
 
 ## Возможности
 
@@ -66,22 +62,20 @@
 
 ## Роботы и активити
 
-***
-
-* [Роботы и активити (действия) бизнес-процессов](roboty-i-aktiviti-deistviya-biznes-processov/README.md)
-  * [Открытые линии](roboty-i-aktiviti-deistviya-biznes-processov/otkrytye-linii.md)
-  * [МАКС](roboty-i-aktiviti-deistviya-biznes-processov/maks/README.md)
-    * [Отправить сообщение](roboty-i-aktiviti-deistviya-biznes-processov/maks/otpravit-soobshenie.md)
-    * [Создать диалог в ОЛ](roboty-i-aktiviti-deistviya-biznes-processov/maks/sozdat-dialog-v-ol.md)
-    * [Отправить контакт](roboty-i-aktiviti-deistviya-biznes-processov/maks/otpravit-kontakt.md)
-    * [Информация об аккаунте](roboty-i-aktiviti-deistviya-biznes-processov/maks/informaciya-ob-akkaunte.md)
-    * [Найти аккаунт](roboty-i-aktiviti-deistviya-biznes-processov/maks/naiti-akkaunt.md)
-    * [Ожидание ответа](roboty-i-aktiviti-deistviya-biznes-processov/maks/ozhidanie-otveta.md)
-    * [Page 2](roboty-i-aktiviti-deistviya-biznes-processov/maks/page-2.md)
-    * [Page 3](roboty-i-aktiviti-deistviya-biznes-processov/maks/page-3.md)
-    * [Page 4](roboty-i-aktiviti-deistviya-biznes-processov/maks/page-4.md)
-    * [Page 5](roboty-i-aktiviti-deistviya-biznes-processov/maks/page-5.md)
-  * [Telegram](roboty-i-aktiviti-deistviya-biznes-processov/telegram.md)
+* [Роботы и активити (действия) бизнес-процессов](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/README.md)
+  * [Открытые линии](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/otkrytye-linii.md)
+  * [МАКС](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/README.md)
+    * [Отправить сообщение](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/otpravit-soobshenie.md)
+    * [Создать диалог в ОЛ](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/sozdat-dialog-v-ol.md)
+    * [Отправить контакт](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/otpravit-kontakt.md)
+    * [Информация об аккаунте](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/informaciya-ob-akkaunte.md)
+    * [Найти аккаунт](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/naiti-akkaunt.md)
+    * [Ожидание ответа](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/ozhidanie-otveta.md)
+    * [Page 2](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/page-2.md)
+    * [Page 3](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/page-3.md)
+    * [Page 4](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/page-4.md)
+    * [Page 5](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/page-5.md)
+  * [Telegram](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/telegram.md)
 
 ## Групповые чаты
 

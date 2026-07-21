@@ -24,4 +24,4 @@
 
 ## Доступные роботы Открытых линий
 
-<figure><img src="../.gitbook/assets/image (1107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1107).png" alt=""><figcaption></figcaption></figure>
