@@ -55,12 +55,6 @@ hidden: true
 
 <figure><img src="../.gitbook/assets/image (1193).png" alt=""><figcaption></figcaption></figure>
 
-*   **Шестерёнка (настройки)** вверху:
-
-    * **Скрыть** — скрывает виджет.
-    * **Настроить** — возможность показывать виджет всегда      &#x20;и подсказки для поля в зависимости от стадии сущности.
-
-    <figure><img src="../.gitbook/assets/image (1191).png" alt=""><figcaption></figcaption></figure>
 *   **Попробовать отправить (в первый раз) /Отправить** — отправляет сообщение.
 
     <figure><img src="../.gitbook/assets/image (1187).png" alt=""><figcaption></figcaption></figure>
