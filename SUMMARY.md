@@ -85,6 +85,7 @@
 
 ## Вопросы и ответы
 
+* [Какое приложение Олчат установить для WhatsApp, Telegram и Макс?](voprosy-i-otvety/kakoe-prilozhenie-olchat-ustanovit-dlya-whatsapp-telegram-i-maks.md)
 * [Работа с чатами](voprosy-i-otvety/rabota-s-chatami/README.md)
   * [Как дать ссылку на конкретный чат?](voprosy-i-otvety/rabota-s-chatami/kak-dat-ssylku-na-konkretnyi-chat.md)
 * [Ошибка «Канал коммуникации не настроен»](voprosy-i-otvety/oshibka-kanal-kommunikacii-ne-nastroen.md)
