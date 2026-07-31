@@ -25,8 +25,8 @@
 
 После выбора Открытой линии следуйте инструкциям по авторизации:
 
-* [Для Telegram](/broken/pages/Bc5knuIzEEMUWMWRKc07) — вход обычно выполняется через номер телефона.
-* [Для МАКС](/broken/pages/oLeIghDQv9XP94moJgow) — вход обычно выполняется через QR-код.
+* [Для Telegram](avtorizaciya-telegram.md).
+* [Для МАКС](avtorizaciya-maks.md).
 
 {% hint style="info" %}
 Каждый аккаунт работает независимо от остальных.
