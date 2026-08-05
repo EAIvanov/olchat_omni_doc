@@ -10,6 +10,7 @@
 
 * [Общая информация](blokirovka-nomera/obshaya-informaciya.md)
 * [Блокировка в МАКС](blokirovka-nomera/blokirovka-v-maks.md)
+* [Copy of Блокировка в МАКС](blokirovka-nomera/copy-of-blokirovka-v-maks.md)
 * [Блокировка в Telegram](blokirovka-nomera/blokirovka-v-telegram.md)
 
 ## Тарифы приложения
