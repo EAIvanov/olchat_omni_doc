@@ -15,6 +15,7 @@
 ## Тарифы приложения
 
 * [Тарифы](tarify-prilozheniya/tarify.md)
+* [Copy of Тарифы](tarify-prilozheniya/copy-of-tarify.md)
 * [Оплата коннектора](tarify-prilozheniya/oplata-konnektora.md)
 * [Copy of Оплата коннектора](tarify-prilozheniya/copy-of-oplata-konnektora.md)
 
