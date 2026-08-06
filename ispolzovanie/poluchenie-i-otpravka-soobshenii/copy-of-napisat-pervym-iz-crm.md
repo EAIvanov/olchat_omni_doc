@@ -20,7 +20,7 @@ hidden: true
 
 В открывшемся окне выберите аккаунт, от имени которого будет отправлено сообщение.
 
-<figure><img src="../../.gitbook/assets/image (1196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/фффф.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
