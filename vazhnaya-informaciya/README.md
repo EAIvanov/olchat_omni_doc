@@ -50,7 +50,7 @@ hidden: true
 * Не превышать разумные лимиты сообщений.
 * Использовать сервис ответственно.
 
-При блокировке аккаунта восстановление зависит исключительно от политики [Telegram](../blokirovka-nomera/blokirovka-v-telegram.md) или [МАКС](../blokirovka-nomera/blokirovka-v-maks.md).
+При блокировке аккаунта восстановление зависит исключительно от политики [Telegram](../blokirovka-nomera/blokirovka-v-telegram.md) или [МАКС](https://app.gitbook.com/s/ip7Cm0PbTheOQs0EQQ2d/blokirovka-nomera/blokirovka-v-maks).
 
 {% hint style="info" %}
 Для минимизации рисков используйте оба канала связи (Telegram + МАКС). Это позволит сохранять связь даже при временных ограничениях.
