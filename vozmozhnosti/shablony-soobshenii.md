@@ -63,7 +63,7 @@
 
 ### Из карточки CRM
 
-Чтобы отправить шаблон [из карточки сущности](../ispolzovanie/poluchenie-i-otpravka-soobshenii/napisat-pervym-iz-crm.md#proverka-kontakta-klienta), нужно:
+Чтобы отправить шаблон [из карточки сущности](/broken/pages/JnV7qLJe6QId5fmUVPmy#proverka-kontakta-klienta), нужно:
 
 1. Перейти в Олчат ОМНИ в таймлайне справа.
 2.  Нажать на **Шаблоны** под полем ввода сообщения.<br>
