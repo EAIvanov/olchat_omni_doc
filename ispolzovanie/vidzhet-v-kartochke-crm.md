@@ -44,7 +44,7 @@
 *   **Шаблоны** — вставьте готовый шаблон сообщения (с подстановкой данных из CRM при наличии).<br>
 
     <figure><img src="../.gitbook/assets/image (1194).png" alt=""><figcaption></figcaption></figure>
-* **Шестерёнка (настройки)** внизу:&#x20;
+* **Шестерёнка (настройки)** внизу:
   * **Публиковать в открытую линию.**
   * **Показать имя оператора** — можно выбрать, если сообщение не публикуется в открытой лини&#x438;**.**
   * **Создать CRM-активность.**
@@ -55,7 +55,7 @@
 
     <figure><img src="../.gitbook/assets/image (1187).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1188).png" alt=""><figcaption></figcaption></figure>
 
 После отправки сообщение отображается в таймлайне карточки. Если включена публикация в открытую линию, чат создаётся автоматически.
 

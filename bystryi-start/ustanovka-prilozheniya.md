@@ -11,13 +11,13 @@
     <figure><img src="../.gitbook/assets/image (1175).png" alt=""><figcaption></figcaption></figure>
 2.  Найдите приложение. В поисковой строке введите **Олчат ОМНИ** и выберите нужное.<br>
 
-    <figure><img src="../.gitbook/assets/image (1177).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1176).png" alt=""><figcaption></figcaption></figure>
 3.  Откройте страницу приложения и нажмите кнопку **Установить**. Ознакомьтесь с условиями использования, лицензионным соглашением, политикой конфиденциальности и подтвердите установку.<br>
 
     <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-4.  После успешной установки приложение появится в левом меню вашего портала Битрикс24. <br>
+4.  После успешной установки приложение появится в левом меню вашего портала Битрикс24.<br>
 
-    <figure><img src="../.gitbook/assets/image (1180).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1179).png" alt=""><figcaption></figcaption></figure>
 5. Завершите первоначальную настройку: после установки приложение появится в левом меню. Откройте его и заполните контактные данные (имя, телефон, почту).
 
 {% hint style="info" %}
@@ -28,7 +28,7 @@
 
 ### Установка по прямой ссылке <a href="#ustanovka-po-pryamoi-ssylke" id="ustanovka-po-pryamoi-ssylke"></a>
 
-Перейдите по [ссылке](https://www.bitrix24.ru/apps/app/infocom.olchat_omni/?p=132277&p1=docs). Сразу откроется окно на шаге заполнения контактных данных — заполните их и завершите установку.
+Перейдите по [ссылке](https://www.bitrix24.ru/apps/app/infocom.olchat_omni/?p=132277\&p1=docs). Сразу откроется окно на шаге заполнения контактных данных — заполните их и завершите установку.
 
 ### Дополнительные настройки для коробочной версии Битрикс24
 

@@ -16,11 +16,11 @@
 
 #### Дополнительные рекомендации <a href="#dopolnitelnye-rekomendacii" id="dopolnitelnye-rekomendacii"></a>
 
-* Попробуйте написать [из приложения в карточке](https://app.gitbook.com/o/QLoEn3VhAt7A4TTVVD1a/s/-LcuJc7XlLhpPyLWZz1s/ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke).
-* Проверьте [статус коннектора](https://app.gitbook.com/o/QLoEn3VhAt7A4TTVVD1a/s/-LcuJc7XlLhpPyLWZz1s/ustanovka-i-nastroika/podklyuchenie-konnektora) в приложении Олчат (должен быть «Подключен»).
+* Попробуйте написать [из приложения в карточке](https://app.gitbook.com/s/-LcuJc7XlLhpPyLWZz1s/ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke).
+* Проверьте [статус коннектора](https://app.gitbook.com/s/-LcuJc7XlLhpPyLWZz1s/ustanovka-i-nastroika/podklyuchenie-konnektora) в приложении Олчат (должен быть «Подключен»).
 * Проверьте, на какой номер вы пишете.
 *   Убедитесь, что открытая линия подключена и сотрудник имеет роль администратора на этой линии.
 
     * Активна линия или нет, может увидеть любой пользователь с доступом к Олчат, но изменить настройки и поставить галочку может только администратор линии.
 
-    <figure><img src="../.gitbook/assets/image (1204).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1203).png" alt=""><figcaption></figcaption></figure>
