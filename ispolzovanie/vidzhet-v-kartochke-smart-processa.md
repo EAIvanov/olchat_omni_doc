@@ -33,4 +33,6 @@ hidden: true
     <figure><img src="../.gitbook/assets/image (1170).png" alt=""><figcaption></figcaption></figure>
 4. Виджет готов к работе.
 
+<figure><img src="../.gitbook/assets/image (1174) (1).png" alt=""><figcaption></figcaption></figure>
+
 Виджет отображается непосредственно в сущности после добавления и не требует включения [в общих настройках приложения](https://docs.olchat.ru/omni/ispolzovanie/vidzhet-v-kartochke-crm#osnovnye-vozmozhnosti).
