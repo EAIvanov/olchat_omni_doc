@@ -17,8 +17,6 @@
 
 <figure><img src="../.gitbook/assets/image (1174).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1174).png" alt=""><figcaption></figcaption></figure>
-
 Виджет отображает:
 
 * Статусы клиента по всем подключённым мессенджерам (зелёный — онлайн/доступен, серый — недоступен).
