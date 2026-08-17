@@ -76,16 +76,13 @@
 Как добавить:
 
 1. Выберите контакт из списка и нажмите на него.
-2.  Выберите игнорировать.<br>
+2. Выберите игнорировать.
 
-    <figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
-3.  Проверьте, что рядом появился соответствующий значок.<br>
+3. Проверьте, что рядом появился соответствующий значок.
 
-    <figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
-
-    <figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Виджеты на сайт
 
