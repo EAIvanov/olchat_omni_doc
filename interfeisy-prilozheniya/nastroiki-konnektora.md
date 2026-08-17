@@ -79,7 +79,11 @@
 2.  Выберите игнорировать.<br>
 
     <figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 3.  Проверьте, что рядом появился соответствующий значок.<br>
+
+    <figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
     <figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
