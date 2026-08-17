@@ -12,7 +12,7 @@ hidden: true
 2. В разделе **Другие роботы** найдите **\[Олчат ОМНИ] \[МАКС] Удалить сообщение** и нажмите **Добавить**.
 3. На добавленном роботе нажмите **Изменить**, чтобы открыть параметры.
 
-<figure><img src="../../../.gitbook/assets/image (1206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Настройка активити (действия) бизнес-процесса
 
