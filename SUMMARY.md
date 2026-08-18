@@ -51,7 +51,6 @@
 * [Виджет в карточке CRM](ispolzovanie/vidzhet-v-kartochke-crm.md)
 * [Виджет в карточке смарт-процесса](ispolzovanie/vidzhet-v-kartochke-smart-processa.md)
 * [REST API](ispolzovanie/rest-api.md)
-* [Отправка сообщений из мобильного приложения Битрикс24](ispolzovanie/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
 
 ## Возможности
 
