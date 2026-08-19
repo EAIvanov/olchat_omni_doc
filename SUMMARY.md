@@ -86,4 +86,6 @@
 * [Какое приложение Олчат установить для WhatsApp, Telegram и Макс?](voprosy-i-otvety/kakoe-prilozhenie-olchat-ustanovit-dlya-whatsapp-telegram-i-maks.md)
 * [Работа с чатами](voprosy-i-otvety/rabota-s-chatami/README.md)
   * [Как дать ссылку на конкретный чат?](voprosy-i-otvety/rabota-s-chatami/kak-dat-ssylku-na-konkretnyi-chat.md)
-* [Ошибка «Канал коммуникации не настроен»](voprosy-i-otvety/oshibka-kanal-kommunikacii-ne-nastroen.md)
+* [Возникающие ошибки](voprosy-i-otvety/voznikayushie-oshibki/README.md)
+  * [Ошибка «Канал коммуникации не настроен»](voprosy-i-otvety/voznikayushie-oshibki/oshibka-kanal-kommunikacii-ne-nastroen.md)
+  * [Ошибка «МАКС не подтвердил номер»](voprosy-i-otvety/voznikayushie-oshibki/oshibka-maks-ne-podtverdil-nomer.md)
