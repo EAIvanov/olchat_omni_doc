@@ -52,6 +52,8 @@ hidden: true
 
 <figure><img src="../.gitbook/assets/image (1139).png" alt=""><figcaption></figcaption></figure>
 
+Если на аккаунте включён облачный пароль, его нужно ввести в Олчат ОМНИ (на странице, которая открылась по ссылке).
+
 #### **Шаг 3. Настройка коннектора**
 
 Подробнее можно ознакомиться [здесь](../interfeisy-prilozheniya/nastroiki-konnektora.md).
