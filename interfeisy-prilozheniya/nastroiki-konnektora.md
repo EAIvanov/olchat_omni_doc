@@ -56,7 +56,7 @@
 
 Настройка задаётся индивидуально для каждого аккаунта и доступна только после успешного подключения аккаунта.
 
-<figure><img src="../.gitbook/assets/image (679).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2026-08-27_12-34-33.png" alt=""><figcaption></figcaption></figure>
 
 Также в этом разделе можно настроить взаимодействие с CRM.
 
