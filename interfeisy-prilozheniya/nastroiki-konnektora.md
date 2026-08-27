@@ -56,11 +56,11 @@
 
 Настройка задаётся индивидуально для каждого аккаунта и доступна только после успешного подключения аккаунта.
 
-<figure><img src="../.gitbook/assets/image (547).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (668).png" alt=""><figcaption></figcaption></figure>
 
 Также в этом разделе можно настроить взаимодействие с CRM.
 
-<figure><img src="../.gitbook/assets/image (617).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (671).png" alt=""><figcaption></figcaption></figure>
 
 **Передавать e-mail для идентификации контакта**
 
