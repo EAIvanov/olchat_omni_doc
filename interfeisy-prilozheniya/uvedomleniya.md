@@ -32,7 +32,7 @@
 * Назначьте ответственного сотрудника, который будет отслеживать сообщения от приложения.
 * Проверьте, что чат уведомлений подключен в разделе **Контакты и уведомления**:
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Типы уведомлений в чате
 

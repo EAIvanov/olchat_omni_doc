@@ -19,7 +19,7 @@
 
 Включить или отключить СМС-провайдера на линии можно в настройках:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Отправка через веб-версию Битрикс24
 
