@@ -22,11 +22,11 @@
 
 ### Обычные роботы
 
-<figure><img src="../../.gitbook/assets/image (1108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1108).png" alt=""><figcaption></figcaption></figure>
 
 ### Групповые роботы
 
-<figure><img src="../../.gitbook/assets/image (1109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1109).png" alt=""><figcaption></figcaption></figure>
 
 ## Рекомендации по использованию
 
