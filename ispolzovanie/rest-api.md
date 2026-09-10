@@ -3,14 +3,14 @@
 REST API позволяет автоматизировать отправку/получение сообщений, работу с чатами и интеграцию с внешними системами.
 
 {% hint style="info" %}
-Сейчас API находится в тестовом режиме — структура и методы могут измениться.&#x20;
+Сейчас API находится в тестовом режиме — структура и методы могут измениться.
 {% endhint %}
 
 Полная и актуальная документация по всем методам REST API доступна напрямую в вашем кабинете: **Олчат ОМНИ** → выберите аккаунт из списка → **Настройки** → **Вебхук** → **Документация API**.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Получение вебхука (токена)
 
@@ -27,7 +27,7 @@ REST API позволяет автоматизировать отправку/п
 * send\_to\_imol (Y/N) — публиковать ли сообщение в чат Открытой линии Bitrix24.
 * Для Telegram используются **chat\_id** (или username), для МАКС — номера/идентификаторы.
 
-## Основные возможности&#x20;
+## Основные возможности
 
 * Отправка текстовых сообщений (sendText).
 * Отправка файлов/медиа (sendFile).
