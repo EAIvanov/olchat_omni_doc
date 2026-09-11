@@ -66,6 +66,7 @@
   * [Открытые линии](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/otkrytye-linii/README.md)
     * [Управление участниками чата](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/otkrytye-linii/upravlenie-uchastnikami-chata.md)
     * [Перевести диалог на другого оператора/линию](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/otkrytye-linii/perevesti-dialog-na-drugogo-operatora-liniyu.md)
+    * [Добавить пользователя в чат по CRM](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/otkrytye-linii/dobavit-polzovatelya-v-chat-po-crm.md)
   * [МАКС](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/README.md)
     * [Отправить сообщение](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/otpravit-soobshenie.md)
     * [Создать диалог в ОЛ](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/sozdat-dialog-v-ol.md)
