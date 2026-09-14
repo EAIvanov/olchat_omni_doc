@@ -50,9 +50,11 @@
     <figure><img src="../.gitbook/assets/image (881).png" alt=""><figcaption></figcaption></figure>
 5. Выберите элемент CRM.
 
-<figure><img src="../.gitbook/assets/image (894).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (948).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы убрать привязку, нажмите **крестик** рядом с названием элемента.
+
+<figure><img src="../.gitbook/assets/image (894).png" alt=""><figcaption></figcaption></figure>
 
 Привязка также видна в разделе **Список групп**, в колонке **CRM** напротив соответствующей группы. Это позволяет увидеть связанный элемент CRM, не открывая настройки группы.
 
