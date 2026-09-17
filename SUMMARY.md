@@ -75,7 +75,7 @@
     * [Найти аккаунт](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/naiti-akkaunt.md)
     * [Ожидание ответа](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/ozhidanie-otveta.md)
     * [Удалить сообщение](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/udalit-soobshenie.md)
-    * [Page 3](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/page-3.md)
+    * [Редактировать сообщение](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/page-3.md)
     * [Page 4](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/page-4.md)
     * [Page 5](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/page-5.md)
   * [Telegram](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/telegram/README.md)
