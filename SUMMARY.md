@@ -29,6 +29,7 @@
 ## Интерфейсы приложения
 
 * [Панель приложения](interfeisy-prilozheniya/panel-prilozheniya.md)
+* [Copy of Панель приложения](interfeisy-prilozheniya/panel-prilozheniya-1.md)
 * [Настройки коннектора](interfeisy-prilozheniya/nastroiki-konnektora.md)
 * [Настройки приложения](interfeisy-prilozheniya/nastroiki-prilozheniya.md)
 * [Уведомления](interfeisy-prilozheniya/uvedomleniya.md)
