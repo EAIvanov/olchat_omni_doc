@@ -17,7 +17,7 @@ hidden: true
 
 При необходимости воспользуйтесь ссылкой **Как создать пригласительную ссылку** под соответствующим полем.
 
-<figure><img src="../.gitbook/assets/image (950).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1034).png" alt=""><figcaption></figcaption></figure>
 
 После настройки канала его необходимо добавить в виджет Битрикс24.
 
