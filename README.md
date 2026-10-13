@@ -72,3 +72,11 @@
 {% hint style="success" icon="exclamation" %}
 [Олчат ОМНИ уже доступен для установки](https://www.bitrix24.ru/apps/app/infocom.olchat_omni/?p=132277\&p1=docs) 🚀
 {% endhint %}
+
+## Как открыть чат поддержки из Битрикс24?
+
+<figure><img src=".gitbook/assets/Запись 2026-10-08 153915 (1).gif" alt=""><figcaption></figcaption></figure>
+
+[Лицензионное соглашение](https://olchat.io/eula-ru)
+
+[Условия о конфиденциальности](https://olchat.io/privacy-ru)
