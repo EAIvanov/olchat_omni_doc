@@ -73,6 +73,10 @@
 [Олчат ОМНИ уже доступен для установки](https://www.bitrix24.ru/apps/app/infocom.olchat_omni/?p=132277\&p1=docs) 🚀
 {% endhint %}
 
+{% hint style="warning" %}
+Перед подключением аккаунтов Telegram и МАКС рекомендуем ознакомиться с разделом [Важная информация](vazhnaya-informaciya.md), в котором описаны рекомендации по прогреву новых аккаунтов и снижению рисков блокировки.
+{% endhint %}
+
 ## Как открыть чат поддержки из Битрикс24?
 
 <figure><img src=".gitbook/assets/Запись 2026-10-08 153915 (1).gif" alt=""><figcaption></figcaption></figure>
@@ -80,3 +84,4 @@
 [Лицензионное соглашение](https://olchat.io/eula-ru)
 
 [Условия о конфиденциальности](https://olchat.io/privacy-ru)
+
