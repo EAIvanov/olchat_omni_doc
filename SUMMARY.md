@@ -54,6 +54,7 @@
 ## Возможности
 
 * [Виджет на сайт](vozmozhnosti/vidzhet-na-sait.md)
+* [Copy of Виджет на сайт](vozmozhnosti/vidzhet-na-sait-1.md)
 * [Шаблоны сообщений](vozmozhnosti/shablony-soobshenii.md)
 * [Бот-помощник](vozmozhnosti/bot-pomoshnik.md)
 * [Шорткоды](vozmozhnosti/shortkody.md)
