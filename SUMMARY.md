@@ -58,6 +58,7 @@
 * [Бот-помощник](vozmozhnosti/bot-pomoshnik.md)
 * [Шорткоды](vozmozhnosti/shortkody.md)
 * [Расширение возможностей](vozmozhnosti/rasshirenie-vozmozhnostei.md)
+* [ИИ-коннектор](vozmozhnosti/ii-konnektor.md)
 
 ## Роботы и активити
 
