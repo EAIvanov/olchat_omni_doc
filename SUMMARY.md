@@ -82,6 +82,7 @@
     * [Page 5](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/page-5.md)
   * [Telegram](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/telegram/README.md)
     * [Создать диалог в ОЛ](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/telegram/sozdat-dialog-v-ol.md)
+* [МАКС Бот](roboty-i-aktiviti/maks-bot.md)
 
 ## Групповые чаты
 
