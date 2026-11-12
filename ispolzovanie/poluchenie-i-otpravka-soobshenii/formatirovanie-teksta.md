@@ -63,7 +63,7 @@
 
 ### Оформление текста в виде цитаты
 
-Чтобы оформить цитату, нужно выделить сообщение и нажать на кавычки.
+Чтобы оформить цитату в чате Открытой линии, нужно выделить сообщение и нажать на кавычки.
 
 <figure><img src="../../.gitbook/assets/image (1197).png" alt=""><figcaption></figcaption></figure>
 
@@ -71,7 +71,7 @@
 
 <figure><img src="../../.gitbook/assets/image (1199).png" alt=""><figcaption></figcaption></figure>
 
-В мессенджере сообщение будет выглядеть так:&#x20;
+В мессенджере сообщение будет выглядеть так:
 
 <figure><img src="../../.gitbook/assets/image (1200).png" alt=""><figcaption></figcaption></figure>
 
