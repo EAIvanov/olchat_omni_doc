@@ -4,7 +4,7 @@
 
 ## Меню приложения
 
-<figure><img src="../.gitbook/assets/{349EF50E-E7C9-4529-BF29-BB480199B453}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1126).png" alt=""><figcaption></figcaption></figure>
 
 Меню разделено на три блока:
 
@@ -31,7 +31,7 @@
 * **Написать в поддержку** — обращение в службу технической поддержки Олчат.
 * **Подписаться на новости** — переход к подписке на новости Олчат.
 
-<figure><img src="../.gitbook/assets/{42B02F4B-73A0-4A06-94E6-FFC6C0E30FDA}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1127).png" alt=""><figcaption></figcaption></figure>
 
 ## Список аккаунтов
 
