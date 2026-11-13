@@ -21,7 +21,7 @@ hidden: true
 * ID собеседника или чата.
 *   ID сообщения — идентификатор закрепляемого сообщения.<br>
 
-    <figure><img src="../../.gitbook/assets/{9B547DB0-F4DE-4CE2-A766-8DB570E2EE62}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/{9B547DB0-F4DE-4CE2-A766-8DB570E2EE62}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

@@ -22,7 +22,7 @@ hidden: true
 * Широта — числовая широта точки.
 * Долгота — числовая долгота точки.
 
-<figure><img src="../../.gitbook/assets/{B8898FD4-4595-45FB-8D3C-BC49C1089C54}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/{B8898FD4-4595-45FB-8D3C-BC49C1089C54}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

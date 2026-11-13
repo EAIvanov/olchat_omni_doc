@@ -20,7 +20,7 @@ hidden: true
 * ID собеседника или чата.
 * Имя контакта.
 
-<figure><img src="../../.gitbook/assets/{C91D09DE-E037-4630-817B-AC7C75399D35}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/{C91D09DE-E037-4630-817B-AC7C75399D35}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

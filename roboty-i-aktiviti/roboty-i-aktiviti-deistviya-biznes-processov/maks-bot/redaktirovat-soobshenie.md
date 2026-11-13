@@ -22,7 +22,7 @@ hidden: true
 * ID сообщения.
 *   Сообщение — новый текст.<br>
 
-    <figure><img src="../../.gitbook/assets/{BB7A6934-471C-44CA-80EB-7878C56B0B7D}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/{BB7A6934-471C-44CA-80EB-7878C56B0B7D}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

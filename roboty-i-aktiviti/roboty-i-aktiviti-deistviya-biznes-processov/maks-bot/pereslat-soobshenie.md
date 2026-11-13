@@ -20,7 +20,7 @@ hidden: true
 * Куда переслать (ID чата) — идентификатор чата получателя.
 *   ID пересылаемого сообщения — идентификатор исходного сообщения.<br>
 
-    <figure><img src="../../.gitbook/assets/{94E420E8-507B-4DE1-B6EB-73ACF5D92E75}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/{94E420E8-507B-4DE1-B6EB-73ACF5D92E75}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

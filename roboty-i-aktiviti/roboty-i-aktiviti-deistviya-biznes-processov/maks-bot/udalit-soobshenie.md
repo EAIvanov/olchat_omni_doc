@@ -19,7 +19,7 @@ hidden: true
 * Линия — подключённая линия МАКС Бота.
 *   ID сообщения — идентификатор удаляемого сообщения.<br>
 
-    <figure><img src="../../.gitbook/assets/{0CC0F3CE-729C-42A4-BBEC-259CFED13C42}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/{0CC0F3CE-729C-42A4-BBEC-259CFED13C42}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

@@ -28,7 +28,7 @@ hidden: true
 * Кнопка N: тип — действие кнопки.
 * Кнопка N: значение — значение действия, например ссылка или callback-значение.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

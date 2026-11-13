@@ -20,7 +20,7 @@ hidden: true
 * Тип индентификатора.
 * ID собеседника или чата.
 
-<figure><img src="../../.gitbook/assets/{9127B959-BD5B-4883-ABFD-E76A90D7CCDD}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/{9127B959-BD5B-4883-ABFD-E76A90D7CCDD}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

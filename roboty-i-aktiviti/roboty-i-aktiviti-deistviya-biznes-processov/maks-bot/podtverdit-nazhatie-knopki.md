@@ -23,7 +23,7 @@ hidden: true
 * Линия — подключённая линия МАКС Бота.
 * ID нажатия.
 
-<figure><img src="../../.gitbook/assets/{5CC673AB-2F03-48A0-A700-A08E75076923}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/{5CC673AB-2F03-48A0-A700-A08E75076923}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

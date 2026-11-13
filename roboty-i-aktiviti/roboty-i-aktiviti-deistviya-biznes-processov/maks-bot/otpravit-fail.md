@@ -21,7 +21,7 @@ hidden: true
 * Тип источника файла — прямая ссылка, файл Битрикс24.Диска по ID или файл из поля CRM.
 * Прямая ссылка на файл или ID файла на Диске — ссылка либо идентификатор файла в зависимости от выбранного источника.
 
-<figure><img src="../../.gitbook/assets/{E5B9A265-8CF1-441C-B18F-1327F921507D}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/{E5B9A265-8CF1-441C-B18F-1327F921507D}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

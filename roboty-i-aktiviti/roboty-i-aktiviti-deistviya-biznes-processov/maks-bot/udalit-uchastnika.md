@@ -20,7 +20,7 @@ hidden: true
 * ID группы.
 *   ID пользователя.<br>
 
-    <figure><img src="../../.gitbook/assets/{C8FB0DF6-3951-49B4-AD76-35960805FDD1}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/{C8FB0DF6-3951-49B4-AD76-35960805FDD1}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

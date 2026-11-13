@@ -19,7 +19,7 @@ hidden: true
 * Линия — подключённая линия МАКС Бота.
 *   ID группы.<br>
 
-    <figure><img src="../../.gitbook/assets/{C8318262-37C0-43AF-97A2-7AA25BC2F47A}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/{C8318262-37C0-43AF-97A2-7AA25BC2F47A}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

@@ -27,7 +27,7 @@ hidden: true
 * Текст кнопки 1 — обязательная надпись на первой кнопке.
 * URL кнопки 1 — обязательный адрес первой кнопки.
 
-<figure><img src="../../.gitbook/assets/{B79F8984-CAA8-4A3B-A436-E23A27C43CEF}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/{B79F8984-CAA8-4A3B-A436-E23A27C43CEF}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

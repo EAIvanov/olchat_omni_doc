@@ -22,7 +22,7 @@ hidden: true
 * Текст сообщения — текст для пользователя.
 * Ссылка мини-приложения — имя мини-приложения или адрес вида https://max.ru/имя.
 
-<figure><img src="../../.gitbook/assets/{56373672-7A1F-4741-913C-3B93D8BADFB8}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/{56373672-7A1F-4741-913C-3B93D8BADFB8}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 

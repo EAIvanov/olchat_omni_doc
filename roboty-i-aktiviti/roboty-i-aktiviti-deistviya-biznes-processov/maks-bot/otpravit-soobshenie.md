@@ -20,7 +20,7 @@ hidden: true
 * ID собеседника или чата — укажите числовой ID чата для группы или ID собеседника.&#x20;
 * Сообщение — текст отправляемого сообщения.&#x20;
 
-<figure><img src="../../.gitbook/assets/{4BB215F6-F783-4CD2-9B4F-DF900F2B38AB}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/{4BB215F6-F783-4CD2-9B4F-DF900F2B38AB}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 
