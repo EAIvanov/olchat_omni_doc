@@ -4,7 +4,7 @@
 
 ## Меню приложения
 
-<figure><img src="../.gitbook/assets/image (1012).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{349EF50E-E7C9-4529-BF29-BB480199B453}.png" alt=""><figcaption></figcaption></figure>
 
 Меню разделено на три блока:
 
@@ -12,7 +12,6 @@
   * Telegram.
   * Макс.
   * WhatsApp.
-  * МАКС Бот.
 * **Основное.**
   * Список диалогов — переход к диалогам открытых линий в Битрикс24.
   * MCP-сервер — позволяет подключить ИИ-клиента к доступным вам подключениям и переписке в Битрикс24 с помощью токена доступа.
@@ -32,7 +31,7 @@
 * **Написать в поддержку** — обращение в службу технической поддержки Олчат.
 * **Подписаться на новости** — переход к подписке на новости Олчат.
 
-<figure><img src="../.gitbook/assets/image (1010).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{42B02F4B-73A0-4A06-94E6-FFC6C0E30FDA}.png" alt=""><figcaption></figcaption></figure>
 
 ## Список аккаунтов
 
