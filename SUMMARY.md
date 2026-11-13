@@ -109,6 +109,7 @@
     * [Отправить геолокацию](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks-bot/otpravit-geolokaciyu.md)
     * [Отправить сообщение](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks-bot/otpravit-soobshenie.md)
     * [Ожидание ответа](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks-bot/ozhidanie-otveta.md)
+* [Copy of Роботы и активити (действия) бизнес-процессов](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov-1.md)
 
 ## Групповые чаты
 
