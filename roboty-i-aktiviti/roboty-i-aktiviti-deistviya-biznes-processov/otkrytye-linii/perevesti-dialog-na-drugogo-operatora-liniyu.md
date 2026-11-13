@@ -14,7 +14,7 @@ hidden: true
 
 Добавьте робота так: **Роботы → Создать → Выбор стадии → Другие роботы → \[Олчат ОМНИ] \[ОЛ] Перевести диалог на другого оператора/линию → Добавить**.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Заполните параметры:
 
@@ -24,7 +24,7 @@ hidden: true
 
 Нажмите **СОХРАНИТЬ**.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Робот возвращает следующие дополнительные результаты:
 
