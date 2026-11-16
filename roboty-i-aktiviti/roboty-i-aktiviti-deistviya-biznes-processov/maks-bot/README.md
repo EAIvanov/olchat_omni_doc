@@ -23,7 +23,7 @@ hidden: true
 
 В Олчат ОМНИ доступно 25 роботов. Они позволяют автоматизировать отправку сообщений, обработку ответов, управление сообщениями и группами.
 
-<figure><img src="../../../.gitbook/assets/image (1054).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/777.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Отправка сообщений и файлов
 
