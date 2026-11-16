@@ -45,7 +45,7 @@
 
 На верхней панели доступны фильтры и сортировка по указанным параметрам.
 
-<figure><img src="../.gitbook/assets/image (1087).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3333.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Скрыть коннектор
 
