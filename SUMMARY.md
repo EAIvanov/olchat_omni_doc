@@ -21,6 +21,7 @@
 
 * [Установка приложения](bystryi-start/ustanovka-prilozheniya.md)
 * [Подключение коннектора](bystryi-start/podklyuchenie-konnektora.md)
+* [Copy of Подключение коннектора](bystryi-start/podklyuchenie-konnektora-1.md)
 * [Настройка открытой линии](bystryi-start/nastroika-otkrytoi-linii.md)
 * [Настройка прав](bystryi-start/nastroika-prav.md)
 * [Переустановка приложения](bystryi-start/pereustanovka-prilozheniya.md)
