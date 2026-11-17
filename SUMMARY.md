@@ -41,6 +41,7 @@
 * [Авторизация Telegram](akkaunty-i-avtorizaciya/avtorizaciya-telegram.md)
 * [Авторизация МАКС](akkaunty-i-avtorizaciya/avtorizaciya-maks.md)
 * [Авторизация МАКС Бота](akkaunty-i-avtorizaciya/avtorizaciya-maks-bota.md)
+* [Авторизация WhatsApp](akkaunty-i-avtorizaciya/avtorizaciya-whatsapp.md)
 * [Переавторизация аккаунта](akkaunty-i-avtorizaciya/pereavtorizaciya-akkaunta.md)
 * [Добавление дополнительных аккаунтов](akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov.md)
 * [Виртуальные номера](akkaunty-i-avtorizaciya/virtualnye-nomera.md)
