@@ -21,7 +21,7 @@ hidden: true
 1. Откройте приложение Олчат ОМНИ на портале Битрикс24.
 2.  В меню слева выберите интеграцию **WhatsApp**. Также можно нажать **Подключить** вверху справа.<br>
 
-    <figure><img src="../.gitbook/assets/image (1128).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1204).png" alt=""><figcaption></figcaption></figure>
 3. Выберите Открытую линию и нажмите **Подключить**.
 4.  На экране авторизации выберите способ подключения: **QR-код** или **По номеру телефона**.<br>
 
