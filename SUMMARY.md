@@ -86,8 +86,6 @@
     * [Редактировать сообщение](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/page-3.md)
     * [Page 4](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/page-4.md)
     * [Page 5](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks/page-5.md)
-  * [Telegram](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/telegram/README.md)
-    * [Создать диалог в ОЛ](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/telegram/sozdat-dialog-v-ol.md)
   * [МАКС Бот](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks-bot/README.md)
     * [Информация о боте](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks-bot/informaciya-o-bote.md)
     * [Подтвердить нажатие кнопки](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks-bot/podtverdit-nazhatie-knopki.md)
@@ -114,6 +112,9 @@
     * [Отправить геолокацию](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks-bot/otpravit-geolokaciyu.md)
     * [Отправить сообщение](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks-bot/otpravit-soobshenie.md)
     * [Ожидание ответа](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks-bot/ozhidanie-otveta.md)
+  * [Telegram](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/telegram/README.md)
+    * [Создать диалог в ОЛ](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/telegram/sozdat-dialog-v-ol.md)
+  * [WhatsApp](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/whatsapp.md)
 * [Copy of Роботы и активити (действия) бизнес-процессов](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov-1.md)
 
 ## Групповые чаты
