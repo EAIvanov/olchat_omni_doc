@@ -3,6 +3,7 @@
 * [Знакомство с Олчат ОМНИ](README.md)
 * [Copy of Знакомство с Олчат ОМНИ](copy-of-znakomstvo-s-olchat-omni.md)
 * [Важная информация](vazhnaya-informaciya.md)
+* [Copy of Важная информация](vazhnaya-informaciya-1.md)
 * [Возможности Олчат ОМНИ](vozmozhnosti-olchat-omni.md)
 * [Правила эффективного взаимодействия со службой поддержки](pravila-effektivnogo-vzaimodeistviya-so-sluzhboi-podderzhki.md)
 
