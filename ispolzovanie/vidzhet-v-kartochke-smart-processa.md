@@ -29,6 +29,6 @@
     <figure><img src="../.gitbook/assets/image (1170).png" alt=""><figcaption></figcaption></figure>
 4. Виджет готов к работе.
 
-<figure><img src="../.gitbook/assets/image (1174) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1174).png" alt=""><figcaption></figcaption></figure>
 
 Подробнее с основными возможностями и элементами виджета можно ознакомиться в статье [Виджет в карточке CRM → Основные возможности](https://docs.olchat.ru/omni/ispolzovanie/vidzhet-v-kartochke-crm#osnovnye-vozmozhnosti).

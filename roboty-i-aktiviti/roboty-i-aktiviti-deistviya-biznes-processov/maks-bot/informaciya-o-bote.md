@@ -18,7 +18,7 @@ hidden: true
 
 *   Линия — подключённая линия МАКС Бота.<br>
 
-    <figure><img src="../../../.gitbook/assets/{3062070C-03FE-4647-BA7F-3B5E4905F400} (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/{3062070C-03FE-4647-BA7F-3B5E4905F400}.png" alt=""><figcaption></figcaption></figure>
 
 3. Запустите бизнес-процесс.
 
@@ -26,4 +26,4 @@ hidden: true
 
 ### Результат
 
-Возвращает Имя бота, Username бота, ID бота, Статус.&#x20;
+Возвращает Имя бота, Username бота, ID бота, Статус.

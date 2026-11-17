@@ -42,6 +42,6 @@
     <figure><img src="../../../.gitbook/assets/image (567).png" alt=""><figcaption></figcaption></figure>
 3.  Заполните параметры аналогично настройке робота.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (555).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (551).png" alt=""><figcaption></figcaption></figure>
 
 Вся информация, которую можно использовать в дальнейших сценариях автоматизации, будет содержаться в дополнительных результатах робота или активити.
