@@ -66,6 +66,7 @@
 * [Шорткоды](vozmozhnosti/shortkody.md)
 * [Расширение возможностей](vozmozhnosti/rasshirenie-vozmozhnostei.md)
 * [ИИ-коннектор](vozmozhnosti/ii-konnektor.md)
+* [Copy of ИИ-коннектор](vozmozhnosti/copy-of-ii-konnektor.md)
 
 ## Роботы и активити
 
