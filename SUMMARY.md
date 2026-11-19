@@ -9,6 +9,7 @@
 ## Блокировка номера
 
 * [Общая информация](blokirovka-nomera/obshaya-informaciya.md)
+* [Copy of Общая информация](blokirovka-nomera/obshaya-informaciya-1.md)
 * [Блокировка в МАКС](blokirovka-nomera/blokirovka-v-maks.md)
 * [Блокировка в Telegram](blokirovka-nomera/blokirovka-v-telegram.md)
 * [Блокировка в WhatsApp](blokirovka-nomera/blokirovka-v-whatsapp.md)
