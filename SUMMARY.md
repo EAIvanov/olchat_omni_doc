@@ -113,7 +113,10 @@
     * [Ожидание ответа](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/maks-bot/ozhidanie-otveta.md)
   * [Telegram](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/telegram/README.md)
     * [Создать диалог в ОЛ](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/telegram/sozdat-dialog-v-ol.md)
-  * [WhatsApp](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/whatsapp.md)
+  * [WhatsApp](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/whatsapp/README.md)
+    * [Информация о чате](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/whatsapp/informaciya-o-chate.md)
+    * [Привязка группы к CRM](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/whatsapp/privyazka-gruppy-k-crm.md)
+    * [Редактировать сообщение](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/whatsapp/redaktirovat-soobshenie.md)
 * [Copy of Роботы и активити (действия) бизнес-процессов](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov-1.md)
 
 ## Групповые чаты

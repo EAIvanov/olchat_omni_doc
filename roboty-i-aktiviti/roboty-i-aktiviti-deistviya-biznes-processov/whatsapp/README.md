@@ -26,7 +26,7 @@
 
 Позволяют автоматизировать отправку сообщений и другого контента, получать сведения о подключённом аккаунте, проверять номера клиентов и ожидать ответы.
 
-<figure><img src="../../.gitbook/assets/{9AA3C9B8-2E37-4174-A636-FA33EB54BE61} (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/{9AA3C9B8-2E37-4174-A636-FA33EB54BE61} (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Групповые роботы
 
@@ -34,7 +34,7 @@
 
 В эту категорию входят:
 
-<figure><img src="../../.gitbook/assets/{F92D7133-1EA8-4703-AD56-ABF4837CC2EC} (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/{F92D7133-1EA8-4703-AD56-ABF4837CC2EC} (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Рекомендации по использованию
 
