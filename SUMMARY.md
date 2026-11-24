@@ -32,6 +32,7 @@
 * [Панель приложения](interfeisy-prilozheniya/panel-prilozheniya.md)
 * [Настройки коннектора](interfeisy-prilozheniya/nastroiki-konnektora.md)
 * [Настройки приложения](interfeisy-prilozheniya/nastroiki-prilozheniya.md)
+* [Copy of Настройки приложения](interfeisy-prilozheniya/nastroiki-prilozheniya-1.md)
 * [Уведомления](interfeisy-prilozheniya/uvedomleniya.md)
 
 ## Аккаунты и авторизация
